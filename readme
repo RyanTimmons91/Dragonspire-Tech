@@ -1,0 +1,122 @@
+Welcome to the DragonSpire Tech modpack!
+
+
+This modpack was originally crafted to be lightweight, while adding a wide variety of things to do, new places to explore, and challenging, but fair, difficulty.
+
+
+This mod currently includes a selection of technology and difficulty mods, as well as many Quality of Life improvements intended to make playing the game enjoyable.
+
+
+Planned Features:
+• Exploration options, such as random structures and dungeons
+• Dimension mods for even more exploration
+• Server economy and utility features
+• Balance tweaks and difficulty scaling
+
+
+Issues:
+• Signs will often display black squares instead of text. Possibly related to a performance mod
+
+
+All mods in this pack as of version A1.0.1:
+
+
+Tech:
+• AE2 / AE2Stuff
+    o A digital storage system that also allows for automation
+• EnderIO
+    o A large tech mod with a vast array of machines and objects
+• EnderStorage
+    o Quantum type-storage like the vanilla ender-chest
+• Tinkers Construct
+    o Cast and Construct powerful tools and weapons form various materials, giving them, generally, useful stats and abilities
+• Mekanism / Generators
+    o Another tech mod that adds many machines and objects that improves advancement and efficiency
+
+
+Content:
+• Pams harvestcraft
+    o Adds a large selection of food items that provide various benefits
+
+
+Difficulty:
+• BloodMoon
+    o Occasionally, the blood moon will rise, you can’t sleep and powerful monsters are everywhere
+• HardcoreDarkness
+    o Removes the minimum light level, it gets dark, fast
+• HarderBranchMining
+    o Makes mining large areas more difficult in favor of cave exploring
+• Rough Mobs Revamped
+    o Adds difficult mob types and changes the AI a bit
+• Dungeon Mobs
+    o Adds various, difficult, mobs for variety and a challenge
+
+
+QOL:
+• AppleSkin
+    o Displays saturation as an overlay over the hunger bar
+• BiblioCraft
+    o Storage and aesthetics mod
+• Bonsai Trees
+    o Single block tree farms to save space
+• Extra Utilities
+    o Lots of useful additions
+• Fast Leaf Decay
+    o Tree leaves decay much faster once the trees are removed
+• Morpheus
+    o Sleep voting system for servers, not everyone has to sleep
+• Tiny Mob Farm
+    o Single block Mob farm to help prevent laggy mob farms on servers
+• Spice Of Life: Carrot Edition
+    o Gives players a reason to eat a variety of food rather than just one type
+
+
+Performance / Stability:
+• AI Improvements
+    o Improves the performance and behavior of mobs
+• BetterFps
+    o Generally increases performance of clients
+• Clumps
+    o Groups together XP orbs to prevent lag when lots of XP is present
+• FastFurnace
+    o Cache Furnace recipe to prevent item-lookups during every smelt operation
+• FastWorkbench
+    o Cache Workbench recipe to prevent item-lookups every time an item Is crafted
+• FoamFix
+    o Performance improvements
+• Performant
+    o Performance Improvements
+• Phosphor
+    o Lighting system improvements that should help performance
+
+
+Utility:
+• Chunk Pregenerator
+    o Pre-generate chunks, useful on servers to generate terrain when players are not online
+• Hwyla / Havestability
+    o Visual overlay to show details of what you are looking at in the world
+• JEI
+    o In game item list showing recipes and uses for items
+• Journeymap
+    o In game minimap and waypoint system
+• Storage Drawers
+    o Allows for visual storage of stacks of items
+• WeirdingGadget
+    o Chunk-loader, allows chunks to be loaded when no players are online
+
+
+Misc:
+• EyesInTheDarkness
+    o Atmospheric mod for dark areas
+• Hats
+    o Show off your personality with collectible hats!
+
+
+Core Mods: (These mods generally don’t add anything, but are required for other mods)
+• AppleCore
+• BDLib
+• Chameleon
+• CodeChickenLib
+• EnderCore
+• iChunUtil
+• Mantle
